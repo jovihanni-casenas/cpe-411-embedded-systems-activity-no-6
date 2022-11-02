@@ -1,0 +1,10 @@
+LINKS TO TINKERCAD SIMULATION
+
+First In First Out:
+https://www.tinkercad.com/things/9c1bQgd8JHm?sharecode=YTtIPiAaPPgq6Boc5LzcWItPr7cIf6_Ofco0QS3r0EY
+
+Shortest Job First:
+https://www.tinkercad.com/things/98gYQNXs80x?sharecode=-nqynzzEvZk6Wh9SOkXJtS6nXnARYyGN5L4s9mJeZXQ
+
+Round Robin:
+https://www.tinkercad.com/things/6JuSZ9Taqym?sharecode=0o_65n_kJ4Gb6FWwd_0XSdZLGFp1zJUThzRBA8CGEnM
